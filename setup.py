@@ -11,7 +11,7 @@ setuptools.setup(
      description="Counterfactual machine learning tools",
      long_description=long_description,
      long_description_content_type="text/markdown",
-     url="https://github.com/gdmarmerola/cfml_tools",
+     url="https://github.com/GauravLV/cfml_tools",
      packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
